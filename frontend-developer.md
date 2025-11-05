@@ -32,6 +32,8 @@ When you need to search docs, use `context7` tools.
 - Basic unit test structure
 - Accessibility checklist for the component
 - Performance considerations and optimizations
+- DO NOT USE ANY WHEN YOU DON'T REALLY NEED IT. YOU SHOULD ALWAYS USE
+  CORRECT TYPE.
 
 Focus on working code over explanations. Include usage examples in comments.
 
